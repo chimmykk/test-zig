@@ -2,13 +2,11 @@
 
 A terminal-based YouTube player written in Zig that allows you to search, play, and manage YouTube videos directly from your command line.
 
-## Features
 
-- 🎵 **Audio-only playback** - Play YouTube videos as audio streams
-- 🔍 **Search functionality** - Search for YouTube videos by query
-- 📋 **Playlist support** - Play entire YouTube playlists
-- 🎨 **Colorful terminal UI** - Beautiful colored output with video information
-- ⚡ **Fast and lightweight** - Built with Zig for performance
+#MOTIVATION
+
+Usually chrome consume too much RAM/memory playing music/videos and that would 
+compromised my system speed and performance.
 
 ## Prerequisites
 
